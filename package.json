@@ -1,0 +1,25 @@
+{
+  "name": "jira-markup-parser",
+  "version": "1.0.0",
+  "description": "Parses Jira Markup to regular Markdown and back.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/johannesjo/jira-markup-parser.git"
+  },
+  "keywords": [
+    "jira",
+    "markup",
+    "markdown",
+    "parser"
+  ],
+  "author": "concat@super-productivity.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johannesjo/jira-markup-parser/issues"
+  },
+  "homepage": "https://github.com/johannesjo/jira-markup-parser#readme"
+}
